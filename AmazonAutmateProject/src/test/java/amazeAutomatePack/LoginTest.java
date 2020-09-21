@@ -33,7 +33,12 @@ public void openbrowser()
 		driver.findElement(By.xpath(".//input[@id='pass']")).sendKeys("TestEmail");
 		driver.findElement(By.id("u_0_b")).click();
 		Thread.sleep(3000);
+<<<<<<< HEAD
 		System.out.println("THE TITLE IS :"+driver.getTitle());
+=======
+		System.out.println(driver.getTitle());
+		/* THIS IS THE END OF THE TEST */
+>>>>>>> branch 'master' of https://github.com/hdadi/GitMasterRemote.git
 		
 	}
 	@AfterClass
