@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-21T10:17:31Z" name="Example test run" finished-at="2020-09-21T10:18:20Z" duration-ms="49321">
+    <groups>
+    </groups>
+    <test started-at="2020-09-21T10:17:31Z" name="Simple Test" finished-at="2020-09-21T10:18:20Z" duration-ms="49321">
+      <class name="amazeAutomatePack.LoginTest">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:amazeAutomatePack.LoginTest@2f8f5f62]" started-at="2020-09-21T10:17:31Z" name="openbrowser" finished-at="2020-09-21T10:18:01Z" duration-ms="29953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="openfb()[pri:0, instance:amazeAutomatePack.LoginTest@2f8f5f62]" started-at="2020-09-21T10:18:01Z" name="openfb" finished-at="2020-09-21T10:18:19Z" duration-ms="18192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openfb -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:amazeAutomatePack.LoginTest@2f8f5f62]" started-at="2020-09-21T10:18:19Z" name="endTest" finished-at="2020-09-21T10:18:20Z" duration-ms="921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- amazeAutomatePack.LoginTest -->
+    </test> <!-- Simple Test -->
+  </suite> <!-- Example test run -->
+</testng-results>
