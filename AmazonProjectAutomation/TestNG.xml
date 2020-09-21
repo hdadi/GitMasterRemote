@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test run">
+  <test name="Sample Test">
+    <classes>
+      <class name="amazonAutomation.LoginToAmazonTest"/>
+    </classes>
+  </test>
+</suite>
