@@ -25,6 +25,7 @@ public void openbrowser()
 	@Test
 	public void openfb() throws InterruptedException
 	{
+		/* *****************This is to just test the COMMIT AND PUSH **************** */
 		driver.get("https://www.facebook.com/");
 		System.out.println(driver.getTitle());		
 		driver.manage().timeouts().implicitlyWait(2,TimeUnit.SECONDS);
