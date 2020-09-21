@@ -33,6 +33,7 @@ public void openbrowser()
 		driver.findElement(By.id("u_0_b")).click();
 		Thread.sleep(3000);
 		System.out.println(driver.getTitle());
+		/* THIS IS THE END OF THE TEST */
 		
 	}
 	@AfterClass
