@@ -33,7 +33,7 @@ public void openbrowser()
 		driver.findElement(By.xpath(".//input[@id='pass']")).sendKeys("TestEmail");
 		driver.findElement(By.id("u_0_b")).click();
 		Thread.sleep(3000);
-		System.out.println(driver.getTitle());
+		System.out.println("THE TITLE IS :"+driver.getTitle());
 		
 	}
 	@AfterClass
