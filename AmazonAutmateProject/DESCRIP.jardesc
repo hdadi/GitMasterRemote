@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="F:/EXPORTEDPROJECTS/EXPFILE.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/AmazonAutmateProject/DESCRIP.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=AmazonAutmateProject/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <file path="/AmazonAutmateProject/.classpath"/>
+        <folder path="/AmazonAutmateProject/test-output"/>
+        <file path="/AmazonAutmateProject/.project"/>
+        <file path="/AmazonAutmateProject/testng.xml"/>
+        <folder path="/AmazonAutmateProject/target"/>
+        <file path="/AmazonAutmateProject/pom.xml"/>
+        <folder path="/AmazonAutmateProject/src"/>
+    </selectedElements>
+</jardesc>
