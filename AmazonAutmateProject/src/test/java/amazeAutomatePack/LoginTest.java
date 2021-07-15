@@ -16,6 +16,7 @@ import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 
+// COMMENT FROM THE GIT HUB CLOUD - MASTER
 public class LoginTest {
 	WebDriver driver;
 	ExtentReports extent;
