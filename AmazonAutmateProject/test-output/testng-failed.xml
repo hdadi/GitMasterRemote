@@ -3,15 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="amazeAutomatePack.LoginTest">
+      <class name="amazeAutomatePack.VeirfyParallelTest">
         <methods>
-          <include name="endTest"/>
-          <include name="openfb"/>
-          <include name="openbrowser"/>
-          <include name="test1"/>
-          <include name="setReport"/>
+          <include name="chrometest"/>
         </methods>
-      </class> <!-- amazeAutomatePack.LoginTest -->
+      </class> <!-- amazeAutomatePack.VeirfyParallelTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
