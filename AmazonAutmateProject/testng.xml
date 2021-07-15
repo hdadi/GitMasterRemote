@@ -1,8 +1,8 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Example test run">
-  <test name="Simple Test">
+  <test name="Simple Test" parallel="methods">
     <classes>
-      <class name="amazeAutomatePack.LoginTest"/>
+      <class name="amazeAutomatePack.VeirfyParallelTest"/>
     </classes>
   </test>
 </suite>
