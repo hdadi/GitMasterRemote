@@ -9,6 +9,7 @@ public class CheckSuperThisKey {
 	}
 
 }
+//This is parent class
 class parent
 { 
 	public void m1()
