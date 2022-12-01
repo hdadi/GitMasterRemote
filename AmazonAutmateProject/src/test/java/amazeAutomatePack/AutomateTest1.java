@@ -3,6 +3,7 @@ import java.util.*;
 
 public class AutomateTest1 {
 //adding a comment
+	//comment form GitHub Web
 	public static void main(String[] args) {
 		
 		System.out.println("REMOVING DUPLICATES OF AN ARRAY");
