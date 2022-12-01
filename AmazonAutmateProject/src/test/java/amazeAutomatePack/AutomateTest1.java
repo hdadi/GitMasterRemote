@@ -2,7 +2,7 @@ package amazeAutomatePack;
 import java.util.*;
 
 public class AutomateTest1 {
-
+//adding a comment
 	public static void main(String[] args) {
 		
 		System.out.println("REMOVING DUPLICATES OF AN ARRAY");
